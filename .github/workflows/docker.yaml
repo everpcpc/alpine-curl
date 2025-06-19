@@ -39,4 +39,4 @@ jobs:
         file: Dockerfile
         push: true
         pull: true
-        tags: ghcr.io/${{ env.REPO }}/alpine-curl-jq-rclone:latest
+        tags: ghcr.io/${{ env.REPO }}/alpine-curl:latest
